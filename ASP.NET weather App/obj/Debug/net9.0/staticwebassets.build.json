@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SQdovuck4dnPaz7z5AY8E6o1b71gw9F7yT21FiYdpQc=",
+  "Source": "ASP.NET weather App",
+  "BasePath": "_content/ASP.NET weather App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
